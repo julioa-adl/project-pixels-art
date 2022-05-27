@@ -1,5 +1,7 @@
 body {
-  background: white url('/Imagem.png') no-repeat right top fixed;
+  background-color: gray;
+  background-image: url('/Imagem.png');
+  background-repeat: no-repeat;
 }
 
 #main {
